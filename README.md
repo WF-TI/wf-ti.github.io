@@ -1,4 +1,4 @@
-## Selamat Datang Di Web Framework 
+## Web Framework (WF)
 
 Repositori ini berisikan materi belajar Web Framewok dan latihannya.
 
